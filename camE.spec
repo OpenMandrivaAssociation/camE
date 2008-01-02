@@ -15,6 +15,7 @@ BuildRequires:  giblib-devel
 BuildRequires:  imlib2-devel
 BuildRequires:  freetype-devel
 BuildRequires:  curl-devel
+BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 camE is a rewrite of the xawtv webcam app, which adds imlib2 support and
