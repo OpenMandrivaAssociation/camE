@@ -1,6 +1,6 @@
 %define name    camE
 %define version 1.9
-%define release %mkrel 8
+%define release %mkrel 9
 
 Name:       %{name}
 Version:    %{version}
