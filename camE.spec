@@ -10,7 +10,7 @@ License:    GPL
 Group:      Video
 Source:     http://linuxbrit.co.uk/downloads/%{name}-%{version}.tar.bz2
 Patch:      %{name}-1.9-fix-curl-issue.patch
-URL:        http://linuxbrit.co.uk/camE
+URL:        https://linuxbrit.co.uk/camE
 BuildRequires:  giblib-devel
 BuildRequires:  imlib2-devel
 BuildRequires:  freetype-devel
