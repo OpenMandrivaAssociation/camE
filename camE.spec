@@ -11,6 +11,7 @@ Group:      Video
 Source:     http://linuxbrit.co.uk/downloads/%{name}-%{version}.tar.bz2
 Patch:      %{name}-1.9-fix-curl-issue.patch
 URL:        https://linuxbrit.co.uk/camE
+BuildRequires:	make
 BuildRequires:  giblib-devel
 BuildRequires:  imlib2-devel
 BuildRequires:  freetype-devel
